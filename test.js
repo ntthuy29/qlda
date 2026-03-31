@@ -1,6 +1,7 @@
 function isOdd(num){
     if(num % 2 === 0){
-        return false;
+        return "helllo";
     }   
-    return true;
+    return "hello";
 }
+console.log(isOdd(2));
